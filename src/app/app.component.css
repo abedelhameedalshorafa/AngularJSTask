@@ -1,0 +1,85 @@
+
+
+.container1{
+  
+  margin-top: 40px;
+  color:#bc9696;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+
+.containerParent1 {
+  text-align: center;
+  margin-top: 40px;
+  color: black;
+  margin-bottom: 100px;
+}
+  .containerChild1 {
+      margin-top: 40px;
+      color: black;
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: column;
+      align-items: center;
+      background-color:rgba(232, 228, 228, 0.911);
+     
+
+    }
+    .h1{
+      padding-top: 60px; 
+    }
+  
+  
+.paragraph{
+  text-align: left; 
+  color: #000;
+  font-size: small;
+  font-style: normal;
+  padding-bottom: 154px;
+  width: 60%;
+ 
+ 
+}
+
+.containerParent2{
+  text-align: center;
+  margin-top: 40px;
+  color: black;
+  margin-bottom: 100px;
+}
+
+  .containerChild2{
+      margin-top: 40px;
+      color: black;
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: column;
+      background-color:rgba(232, 228, 228, 0.911);
+      align-items:flex-start;
+      padding-bottom: 150px;
+      
+  }
+
+  .h2{
+    padding-top: 60px; 
+    width: 20%;
+    margin-left: 113px;
+  }
+  .paragraph1{
+    color: #000;
+    font-size: small;
+    font-style: normal;
+    width: 20%;
+    text-align: left;
+    margin-left: 160px;
+  }
+
+  .LastContainer{
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }

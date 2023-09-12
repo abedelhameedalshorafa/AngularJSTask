@@ -1,0 +1,113 @@
+@import "~@fortawesome/fontawesome-free/css/all.css";
+
+.box {
+  width: 192px;
+  height: 120px;
+  background-color: white;
+  border: 1px solid #ccc;
+  margin-right: 12px;
+  display: inline-flex;
+  text-align: left;
+  vertical-align: middle;
+  color: black;
+  margin-top: -95px;
+  padding-top: 40px;
+  padding-bottom: 30px;
+  padding-left:10px ;
+  padding-right: 10px;
+  font-size: small;
+  box-shadow: 0 2px 0 0 thistle;
+  position: relative;
+    
+  }
+
+.box1{
+  width: 192px;
+  height: 120px;
+  background-color: white;
+  border: 1px solid #ccc;
+  text-align: left;
+  color: black;
+  padding-top: 40px;
+  padding-bottom: 30px;
+  padding-left:10px ;
+  padding-right: 10px;
+  font-size: small;
+  box-shadow: 0 2px 0 0 thistle;
+  margin-top: -340px;
+  margin-right: 450px;
+  position: relative;
+} 
+
+.box2{
+  width: 192px;
+  height: 120px;
+  background-color: white;
+  border: 1px solid #ccc;
+  text-align: left;
+  color: black;
+  padding-top: 40px;
+  padding-bottom: 30px;
+  padding-left:10px ;
+  padding-right: 10px;
+  font-size: small;
+  box-shadow: 0 2px 0 0 thistle;
+  margin-top: -370px;
+  margin-right:200px;
+  position: relative;
+  
+}
+.box3{
+  width: 192px;
+  height: 120px;
+  background-color: white;
+  border: 1px solid #ccc;
+  text-align: left;
+  color: black;
+  padding-top: 40px;
+  padding-bottom: 30px;
+  padding-left:10px ;
+  padding-right: 10px;
+  font-size: small;
+  box-shadow: 0 2px 0 0 thistle;
+  margin-top: -120px;
+  margin-right: 450px;
+  position: relative;
+  
+
+}
+.box4{
+  width: 192px;
+  height: 120px;
+  background-color: white;
+  border: 1px solid #ccc;
+  text-align: left;
+  color: black;
+  padding-top: 40px;
+  padding-bottom: 30px;
+  padding-left:10px ;
+  padding-right: 10px;
+  font-size: small;
+  box-shadow: 0 2px 0 0 thistle;
+  margin-top: -225px;
+  margin-right: 200px;
+  position: relative;
+}
+
+.symbol1{
+  
+    position: absolute; 
+    top: 10px; 
+    right: 10px; 
+    color:#bc9696;
+    font-size: 30px; 
+}
+.symbol2{
+    position: absolute; 
+    top: 10px; 
+    right: 10px; 
+    color:#505050;
+    font-size: 30px;
+}
+    
+ 

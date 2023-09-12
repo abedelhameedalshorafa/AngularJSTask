@@ -1,0 +1,18 @@
+
+<div class="box" *ngIf="boxData1"> 
+    <div class="symbol1">
+        <i class="fa-solid fa-play fa-rotate-180"></i>
+    </div>
+    <div><p>{{ boxData1.content }}</p></div>
+</div>
+
+<div [ngClass]="boxData2.name" *ngIf="boxData2"> 
+    <div class="symbol2">
+        <i class="fa-duotone fa-{{boxData2.id}}"></i>
+    </div>
+    <div><p>{{ boxData2.content }}</p></div>
+</div>
+  
+  
+
+
